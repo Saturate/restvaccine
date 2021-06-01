@@ -19,3 +19,7 @@ Du kan benytte scheduled tasks, corn eller andet. PR's er også velkommen - men 
 Hvis man ville være overkill kunne man lave f.eks. en discord bot som ville gøre det nemt at køre scriptet, ved et klik på en knap.
 
 Ville også være cool nok at have andre regioner med, men da jeg ikke selv bor der, så laver jeg det nok ikke. Du velkommen til at lave understøttelsen.
+
+## Andre scripts
+https://github.com/asger-weirsoee/rest-vaccine-tilmelder
+https://github.com/KJerslev/restvaccine
