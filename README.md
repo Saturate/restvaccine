@@ -1,6 +1,6 @@
 # Rest Vaccine Script
 
-Dette er et meget lavpraktisk script til at opsige sig til en rest vaccine hver eneste dag.
+Dette er et meget lavpraktisk script til, at opskrive sig til en rest vaccine hver eneste dag.
 
 Det benytter Puppeteer da det nemt og opfører sig som en rigtig browser, derfor er det nemt at tilpasse en hver hjemmeside.
 
