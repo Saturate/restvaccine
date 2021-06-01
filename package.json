@@ -1,0 +1,15 @@
+{
+  "name": "restvaccine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Allan Kimmer Jensen",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
